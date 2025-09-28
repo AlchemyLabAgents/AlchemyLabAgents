@@ -25,8 +25,9 @@
 
 > “Todo puede mejorarse cuando se combina estrategia, disciplina y creatividad.”
 
-- Más de 10 años liderando soluciones digitales con impacto en negocio.
-- Perfil híbrido: producto + ingeniería. Me muevo con naturalidad entre briefing ejecutivo, diseño conversacional y delivery técnico.
+- Vivo en Suiza y fundador de **AlchemyLab Agents**, estudio boutique especializado en asistentes con identidad propia.
+- Más de 10 años liderando soluciones digitales con impacto demostrado en negocio, combinando discovery ejecutivo y delivery técnico.
+- Perfil híbrido: producto + ingeniería + seguridad. Me muevo con naturalidad entre prompts, arquitectura y despliegues regulados.
 - Estética “ciberpunk amable”: experiencias oscuras, acentos neón y lenguaje claro para usuarios reales.
 
 ## 🔥 Qué hago
@@ -34,6 +35,7 @@
 1. **Asistentes corporativos** — Identidad conversacional, herramientas externas, handoff humano.
 2. **Automatización operativa** — Flujos multi‑agente, coordinación entre departamentos, alertas proactivas.
 3. **Observabilidad continua** — Métricas, feedback loops y roadmaps de mejora post‑despliegue.
+4. **Despliegues seguros** — Hardening, monitoreo, cumplimiento GDPR/LPD y respuestas auditables.
 
 ## 🧰 Stack habitual
 
@@ -41,10 +43,18 @@
 |---------|-------------|
 | Modelos & Orquestación | OpenAI, LangChain, CrewAI, LangGraph |
 | Interfaces | Gradio 5, Streamlit, React + Tailwind |
-| Infraestructura | Hugging Face Spaces, Docker, Supabase, Fly.io |
+| Infraestructura | Hugging Face Spaces, Docker, Supabase, Fly.io, Google Cloud |
 | Automatización | GitHub Actions, Terraform, Pushover |
+| Seguridad | Ubuntu Server, UFW, Fail2ban, Vault, Cloudflare WAF |
 
-## 🧪 Proyecto destacado: Foundations AI Sidekick
+## � Competencias principales
+
+- **Lenguajes:** Python, Kotlin, Dart (Flutter), JavaScript.
+- **Frameworks y librerías:** FastAPI, LangGraph, CrewAI, AutoGen, Hugging Face Transformers.
+- **Arquitectura & Infra:** Diseño de microservicios, pipelines RAG, despliegues en Hugging Face Spaces y entornos híbridos.
+- **Operaciones & Seguridad:** Observabilidad, gestión de secretos, hardening de servidores y políticas de acceso granular.
+
+## �🧪 Proyecto destacado: Foundations AI Sidekick
 
 - Asistente desplegado en Hugging Face Spaces con persona <em>“David Blanco”</em>, memoria guiada por PDFs y herramientas para captar leads.
 - Pipeline reproducible con `uv`, `gradio deploy` y secret management automatizado.
@@ -58,6 +68,12 @@
 
 > Repositorio: [AlchemyLabAgents/foundations](https://github.com/AlchemyLabAgents/foundations)
 
+## 🧩 Otros proyectos
+
+- **Agents Foundations** — Implementación en Python de los conceptos base para agentes de IA productivos.
+- **LangGraph Agents** — Agentes conversacionales con memoria accionable y flujos de decisión avanzados.
+- **AutoGen Agents** — Equipos de agentes colaborativos para automatizaciones complejas en operaciones.
+
 ## 🛠️ Cómo trabajo
 
 1. **Descubrimiento:** objetivos claros, mapa de stakeholders y métricas deseadas.
@@ -65,11 +81,17 @@
 3. **Prototipo funcional:** iteraciones cortas, sesiones de validación con usuarios reales.
 4. **Despliegue & evolución:** observabilidad, automatización y roadmap de mejoras.
 
-## 📬 Conecta
+## � Formación y desarrollo
+
+- Programa en Ingeniería de Agentes de IA (en curso).
+- Autoaprendizaje continuo en IA generativa, MLOps y seguridad aplicada.
+
+## �📬 Conecta
 
 - ✉️ [davaks.dw@gmail.com](mailto:davaks.dw@gmail.com)
 - 💼 [linkedin.com/in/david-blanco](https://www.linkedin.com/in/david-blanco)
 - 🤖 [Hugging Face · AlchemyLabAgents](https://huggingface.co/AlchemyLabAgents)
+- 🧪 [GitHub · AlchemyLabAgents](https://github.com/AlchemyLabAgents)
 
 ---
 
