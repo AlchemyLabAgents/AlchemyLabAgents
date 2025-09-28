@@ -13,6 +13,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://huggingface.co/spaces/AlchemyLabAgents/foundations-sidekick" target="_blank">
+    <img src="https://img.shields.io/endpoint?url=https://huggingface.co/spaces/AlchemyLabAgents/foundations-sidekick/badge.json&logo=huggingface&logoColor=white" alt="Estado del Space" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 Quién soy
